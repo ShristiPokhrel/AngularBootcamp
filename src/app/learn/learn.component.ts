@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./learn.component.scss']
 })
 export class LearnComponent implements OnInit {
+name: any = 'Shristi Pokhrel';
 
   constructor() { }
 
